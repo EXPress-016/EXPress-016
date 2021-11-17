@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Discord-Selfbot](https://github.com/EXPress-016/Discord-Selfbot)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **https://t.me/EXPress_016**
 
