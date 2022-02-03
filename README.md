@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm EXPress</h1>
 
-- 🔭 I’m currently working on [Discord-Selfbot](https://github.com/EXPress-016/Discord-Selfbot)
+- 🔭 I’m currently working on Private Project
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript**, Java and Kotlin
 
 - 📫 How to reach me **https://t.me/EXPress_016**
 
