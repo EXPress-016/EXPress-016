@@ -25,3 +25,7 @@ jobs:
           plugin_achievements_secrets: yes
           plugin_languages: yes
           plugin_achievements_threshold: B
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs
+
